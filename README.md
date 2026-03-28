@@ -1,8 +1,8 @@
 # SolGrid
 
-**Sun-Powered Solutions**
+**Sun Powered Solutions**
 
-SolGrid is an e-commerce website for a portable solar oven designed for outdoor cooking. The product is a compact, foldable solar cooker that uses reflective panels to concentrate sunlight and cook food without fuel, fire, or electricity — ideal for camping, hiking, and off-grid adventures.
+SolGrid is an e-commerce website for a portable solar oven designed for outdoor cooking. The product is a compact, foldable solar cooker that uses reflective panels to concentrate sunlight and cook food without fuel, fire, or electricity ideal for camping, hiking, and off-grid adventures.
 
 ## About the Product
 
